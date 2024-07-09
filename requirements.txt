@@ -3,3 +3,4 @@ argparse
 future
 jinja2
 play_scraper
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
