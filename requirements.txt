@@ -3,3 +3,4 @@ argparse
 future
 jinja2
 play_scraper
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
